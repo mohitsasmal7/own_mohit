@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Variants, MotionProps } from "framer-motion";
-import { Menu, X, Sun, Moon, BookCheckIcon } from "lucide-react";
+import { Menu, X, Sun, Moon} from "lucide-react";
 import { useLenis } from "lenis/react";
 import { BorderBeam } from "../lightswind/border-beam";
 
