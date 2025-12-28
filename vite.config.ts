@@ -15,6 +15,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: "/own_mohit/",
   plugins: [
     react(),
     tailwindcss(),
